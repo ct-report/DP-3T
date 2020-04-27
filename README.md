@@ -3,7 +3,7 @@ Contact Tracing - DP^3T
 
 Decentralized Privacy-Preserving Proximity Tracing solution - started at EPFL and ETHZ & produced by a core team of over 25 scientists and academic researchers from across Europe.
 
-Technical Documentation + Source code (app/SDK/backend) + Prod/Release test-builds & pub/demo backend **FULLY AVAILABLE**
+Technical Documentation + Source code (app/SDK/backend) + Prod/Release test-builds & pub/demo backend **FULLY AVAILABLE**.
 
 Test-Builds | https://install.appcenter.ms/orgs/dp-3t/apps/nextstep-android/distribution_groups/internal
 ------------|-------------------------------------------------------------------------------------------
